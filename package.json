@@ -1,0 +1,9 @@
+{
+  "name":"tokenforge-solana-launchpad",
+  "private":true,
+  "version":"1.0.0",
+  "type":"module",
+  "scripts":{"dev":"vite","build":"vite build","preview":"vite preview"},
+  "dependencies":{"@solana/spl-token":"^0.4.14","@solana/web3.js":"^1.98.4"},
+  "devDependencies":{"vite":"^7.1.3"}
+}
